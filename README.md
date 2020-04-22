@@ -15,13 +15,13 @@ http://localhost:8080/all
 # add new target words into database
 http://localhost:8080/addAll
 {
-  "word": ["I", "love", "her", "three", "thousand", "times"]
+  "word": ["This", "is", "a", "hello", "world", "message"]
 }
 
 # detect target words from an input list
 http://localhost:8080/parse
 {
-  "word": ["Tony", "Stack", "says", "he", "love", "her"]
+  "word": ["Tony", "Stark", "says", "hello", "world"]
 }
 ```
 
