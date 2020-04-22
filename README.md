@@ -24,5 +24,3 @@ http://localhost:8080/parse
   "word": ["Tony", "Stark", "says", "hello", "world"]
 }
 ```
-
-If you find this implement useful, please grant me a star and thank you in advance :)
