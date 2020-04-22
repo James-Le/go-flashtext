@@ -21,7 +21,7 @@ http://localhost:8080/addAll
 # detect target words from an input list
 http://localhost:8080/parse
 {
-  "word": ["clearlove7", "Troll", "EVOLRAELC", "I", "love", "her"]
+  "word": ["Tony", "Stack", "says", "he", "love", "her"]
 }
 ```
 
