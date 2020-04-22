@@ -1,7 +1,7 @@
 # go-flashtext
 A basic implement for FlashText RESTful-API with Golang and Beego.
 
-This service needs MySQL as its database, make sure your have set up that correct and you need revise the ```main.go``` file's settings as well.
+This service needs MySQL as its database, make sure your have set up that correctly and revise the ```main.go``` file's settings as well.
 
 To launch this flash-text service, make sure you have already installed Beego(https://beego.me/) and run ```$ bee run``` in your terminal.
 
